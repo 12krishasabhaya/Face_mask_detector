@@ -1,0 +1,10 @@
+{
+  "accuracy": 1.0,
+  "cv_mean": 0.9963,
+  "cv_std": 0.005,
+  "train_size": 800,
+  "test_size": 200,
+  "feature_dim": 1264,
+  "model_type": "MLPClassifier (256-128-64)",
+  "iterations": 15
+}
